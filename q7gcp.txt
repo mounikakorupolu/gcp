@@ -1,0 +1,16 @@
+Go to the Firewall rules page in the Google Cloud Platform Console. 
+GO TO THE FIREWALL RULES PAGE
+Select the firewall rule that you want to update.
+Click Edit.
+For the Logs setting, select On.
+Click Save.
+
+
+
+AGAIN GO TO THE FIREWALL RULES PAGE.
+click view logs
+create export
+give sink nsme,sink service as BIG QUERY,sink destination as some dataset.
+ 
+GO TO BIG QUERY
+click on created dataset and run for analysis.
